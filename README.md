@@ -41,7 +41,6 @@ https://xd.adobe.com/view/6186d180-8aec-48b1-849c-9e248e99525f-34d5/?fullscreen 
  - HTML
  - CSS
  - JS
- - Jquery
  - Bootstrap 
 ### Back-End 
  - ASP.NET MVC
